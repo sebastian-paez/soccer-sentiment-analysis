@@ -4,3 +4,4 @@ httpx
 transformers
 torch
 pandas
+feedparser
